@@ -1,0 +1,24 @@
+{
+    "name": "GameCore.Utility",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "UniTask",
+        "UniTask.DOTween",
+        "com.Brogrammist.JSAM",
+        "com.Brogrammist.JSAM.Editor",
+        "ZBase.UnityScreenNavigator",
+        "DOTweenPro.Scripts",
+        "DOTween.Modules",
+        "R3.Unity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
